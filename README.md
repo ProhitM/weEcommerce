@@ -166,7 +166,7 @@ npm start
 
 ---
 
-special thanks to greatstack tutor for helping me to buid this wonderful project by learnig from their vedio
+Special thanks to greatstack tutor for helping me to buid this wonderful project by learnig from their video
 
 
 
